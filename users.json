@@ -1,0 +1,18 @@
+[
+  {
+    "id": "00fc48de-9f9c-46d0-8b50-bbf8f98dfdbf",
+    "email": "gannettnitro@gmail.com",
+    "password_hash": "$2a$10$jnQPtyetDZfeucOhbcgrz.t1MneIPLLkNtouy3jZL2M27lW9f8oFS",
+    "provider_credentials": [
+      {
+        "id": "e419cba1-64ff-42a0-a6a7-8415a6e43e58",
+        "email": "gannettnitro@gmail.com",
+        "full_name": "Initial Onboarding User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "5ZOxGJe0jHwrrVt1UU30qHyHOlzqb2uqEG+iim9t5EvwWrDgIxtMRXvRj/k2\nyv/iBVi8M+Xl7mG90SRwIzGIFQ==\n"
+      }
+    ]
+  }
+]
